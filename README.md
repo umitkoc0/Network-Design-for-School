@@ -1,18 +1,9 @@
-<h1>OKUL BİNASI AĞ KURULUMU</h1>
-<br><br>
-<h3>GİRİŞ</h3>
-Bu projenin kapsamı, Okul Alanı için daha
-iyi bir ağ oluşturmayı amaçlamaktadır.
-Bu ağ, aşağıdaki kategorilerde esneklik
-sağlayacaktır: 
-
-<br>
-1-Güvenlik <br>
-2-Ağ Ölçeklenebilirliği <br>
-3-E-posta ve FTP Kullanımı <br>
-4-Kendi Sunucu <br>
-5-Veri Yedekleme <br> <br>
-Okulun genel ağından ayrılmak için bir
-VPN sağlama imkanı bulunmamaktadır.
-
-<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/1.png>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/1.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/2.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/3.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/4.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/5.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/6.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/7.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/8.png><br>
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/9.png><br>
