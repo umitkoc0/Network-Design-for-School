@@ -14,3 +14,5 @@ sağlayacaktır:
 5-Veri Yedekleme <br> <br>
 Okulun genel ağından ayrılmak için bir
 VPN sağlama imkanı bulunmamaktadır.
+
+<img src=https://github.com/umitkoc0/Network-Design-for-School/blob/main/Readme/1.png>
